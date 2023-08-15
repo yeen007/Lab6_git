@@ -14,7 +14,7 @@
 
 <body>
   <section class="row">
-    <aside class="col-3 col-xl-2 bg-pr full-height-overflow">
+    <aside class="col-3 col-xl-2 bg-pr full-height-overflow" style="border: 5px solid #de9d90;">
       <ul>
         <a href="./">
           <li class="hov-primary">Dashboard</li>
@@ -36,7 +36,7 @@
         </a>
       </ul>
     </aside>
-    <main class="col-9 col-xl-10 bg-gray-100 border-min full-height-overflow">
+    <main class="col-9 col-xl-10 bg-gray-100 border-min full-height-overflow" style="border: 5px solid #de9d90;">
       <div class="container">
         <div class="row pt-4 mb-4 align-items-center">
           <div class="col-8">
