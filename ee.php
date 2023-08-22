@@ -36,7 +36,7 @@
         </a>
       </ul>
     </aside>
-    <main class="col-9 col-xl-10 bg-gray-100 border-min full-height-overflow" style="border: 5px solid red;">
+    <main class="col-9 col-xl-10 bg-gray-100 border-min full-height-overflow" style="border: 5px solid #de9d90;">
       <div class="container">
         <div class="row pt-4 mb-4 align-items-center">
           <div class="col-8">
@@ -168,5 +168,9 @@
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
   integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-<script>console.log('Hel')</script>
+<<<<<<< HEAD
+<script>console.log('Hello')</script>
+=======
+
+>>>>>>> parent of 5ffa163 (Update ee.php)
 </html>
